@@ -1,6 +1,8 @@
 # weibo_analysis_by_Cindy
 @Cindy Tang (txdgz0624@gmail.com)
 
+# Introduction
+
 这是一个微博评论分析工具，实现功能主要有：
 
 	Step1. 微博评论数据爬取
