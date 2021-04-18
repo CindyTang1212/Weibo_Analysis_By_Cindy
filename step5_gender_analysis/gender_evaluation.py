@@ -4,10 +4,6 @@
 Created on Jan 22 2021
 @author: Cindy Tang
 """
-# from snowplow import sentiment
-# import numpy as np
-from snownlp import SnowNLP
-# from snownlp.sentiment import Sentiment
 import matplotlib.pyplot as plt
 
 
